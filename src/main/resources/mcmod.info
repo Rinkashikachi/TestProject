@@ -1,0 +1,16 @@
+[
+{
+  "modid": "testmod",
+  "name": "Test Mod",
+  "description": "Test placeholder.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Rinkashikachi"],
+  "credits": "To all asses out there!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
